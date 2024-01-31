@@ -16,13 +16,12 @@ class MyApp extends StatelessWidget {
       appBar: AppBar(
         title: Center(
             child: Text(
-          "iam happy",
+          "iam hppy",
           style: TextStyle(color: Colors.white),
         )),
         backgroundColor: Colors.blueGrey[900],
       ),
-    body: Center(child: Image(image: AssetImage('images/happy.jpg'))),
-      
+      body: Center(child: Image(image: AssetImage('images/happy.jpg'))),
     ));
   }
 }
