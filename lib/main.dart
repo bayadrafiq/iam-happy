@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       appBar: AppBar(
         title: Center(
             child: Text(
-          "iam hppy",
+          "iam happy",
           style: TextStyle(color: Colors.white),
         )),
         backgroundColor: Colors.blueGrey[900],
